@@ -8,7 +8,7 @@ I have this ability to get out of the usual "programmer" or "developer" environm
 
 I like continuous learning and I adapt quickly.
 
-PHP, AWS, React JS, Vue JS, Node Js, Ruby on Rails, TypeScript, Docker, PostgreSQL, MySQL, WordPress and Laravel.
+**PHP, AWS, React JS, Vue JS, Node Js, Ruby on Rails, TypeScript, Docker, PostgreSQL, MySQL, WordPress and Laravel**.
 
 ___
 
@@ -16,7 +16,7 @@ In 2019 I started my adventure on the web. Thanks to the **Openclassroms website
 
 In 02 years of learning and practice I managed to work on complex website projects with **HTML, CSS, JS, PHP & MYSQL**. This earned me to work with a local company: **[AbuzWeb](https://abuzweb.com)**. I learned a lot by being with them.
 
-In 2021, my thirst for knowledge led me to apply to join the **[Dive Into Code](https://diveintocode.jp/)** web engineering school in Japan. I managed to enter it and I followed the Ruby on Rails web engineer course over 06 months. I can say that it was the most intense year of my career. Above all, I learned a lot, in particular by discovering concepts of clean code, devops, Admin Sys and others. And the internship that followed allowed me to apply all this.
+In 2021, my thirst for knowledge led me to apply to join the **[Dive Into Code](https://diveintocode.jp/)** web engineering school in Japan. I managed to enter it and I followed the **Ruby on Rails web engineer** course over 06 months. I can say that it was the most intense year of my career. Above all, I learned a lot, in particular by discovering concepts of **clean code, devops, Admin Sys and others**. And the internship that followed allowed me to apply all this.
 
 So I started freelancing and had a lot of clients, so I was able to work on projects as exciting as each other. During this time, I continued to share my knowledge on Facebook, Linkedin and through conferences that I organized and where I was invited. This got me interviewed by Blue-Sydney in 2022.
 
@@ -39,7 +39,7 @@ Today, I still continue to learn, train and share. I'm more interested in **FINT
 
 **[Linkedin](https://linkedin.com/in/fredthedev)**
 
-**[Facebook](https://facebook.com/in/fredthedev)**
+**[Facebook](https://facebook.com/freddy.agbona.3)**
 
 **[Twitter](https://twitter.com/fredthedev)**
 
