@@ -1,16 +1,20 @@
 # Who Am I ?
 
+## Short
+
 I'm **Freddy AGBONA, fullstack web developer and I love help others and sharing my knowledge ❤️**.
 
 Passionate about ICTs with strong problem-solving skills and recognized experience in web application design, I enjoy working in a team and above all contributing to the development of high-impact projects.
 
-I have this ability to get out of the usual "programmer" or "developer" environment in order to work on roles ranging from tech project management (organization of tech events, leading tech projects) to digital marketing (sales tunnel, design, seo )
+I have this ability to get out of the usual **"programmer" or "developer"** environment in order to work on roles ranging from **tech project management (organization of tech events, leading tech projects) to digital marketing (sales tunnel, design, seo )**
 
 I like continuous learning and I adapt quickly.
 
 **PHP, AWS, React JS, Vue JS, Node Js, Ruby on Rails, TypeScript, Docker, PostgreSQL, MySQL, WordPress and Laravel**.
 
 ___
+
+## A little long
 
 In 2019 I started my adventure on the web. Thanks to the **Openclassroms website**, I discovered programming and became interested in web development.
 
