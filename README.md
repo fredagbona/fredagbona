@@ -100,7 +100,7 @@ Today, I still continue to learn, train and share. I'm more interested in **FINT
 
 ## My Professional Social Networks
 
-<a href="https://facebook.com/freddy.agbona.3" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/FACEBOOK-%231877F2?style=for-the-badge&logo=facebook&logoColor=%23fff"></a>
+<a href="https://www.facebook.com/freddy.agbona.3" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/FACEBOOK-%231877F2?style=for-the-badge&logo=facebook&logoColor=%23fff"></a>
 <a href="https://www.linkedin.com/in/fredthedev/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23fff">
 </a>
 
