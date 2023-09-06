@@ -13,6 +13,7 @@ I like continuous learning and I adapt quickly.
 ### My Tech Stacks
 
 **Languages**
+
 ![HTML5](https://img.shields.io/badge/HTML5-%23fff?style=for-the-badge&logo=html5&logoColor=%23fff&color=%23E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![JS](https://img.shields.io/badge/JS-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
@@ -26,6 +27,7 @@ I like continuous learning and I adapt quickly.
 ![SWAGGER](https://img.shields.io/badge/SWAGGER-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=%23fff)
 
 **Frameworks**
+
 ![RUBY ON RAILS](https://img.shields.io/badge/RAILS-%23CC0000?style=for-the-badge&logo=rubyonrails&logoColor=%23fff)
 ![SPRING](https://img.shields.io/badge/SPRING-%236DB33F?style=for-the-badge&logo=spring&logoColor=%23fff)
 ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%23fff)
@@ -33,49 +35,41 @@ I like continuous learning and I adapt quickly.
 ![REACT](https://img.shields.io/badge/REACT-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23fff)
 
 **CMS**
+
 ![WORDPRESS](https://img.shields.io/badge/WORDPRESS-%2321759B?style=for-the-badge&logo=wordpress&logoColor=%23fff)
 
 **HOSTS & CLOUD**
+
 ![AMAZON AWS](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=%23fff)
 ![HEROKU](https://img.shields.io/badge/HEROKU-%23430098?style=for-the-badge&logo=heroku&logoColor=%23fff)
 ![NETLIFY](https://img.shields.io/badge/NETLIFY-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=%23fff)
 ![RENDER](https://img.shields.io/badge/RENDER-%2346E3B7?style=for-the-badge&logo=render&logoColor=%23fff)
 
 **DATABASES**
+
 ![MYSQL](https://img.shields.io/badge/MYSQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23fff)
 ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%23fff)
 ![MONGODB](https://img.shields.io/badge/MONGODB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=%23fff)
 
 **OS**
+
 ![LINUX](https://img.shields.io/badge/LINUX-%23FCC624?style=for-the-badge&logo=linux&logoColor=%23fff)
 ![WINDOWS](https://img.shields.io/badge/WINDOWS-%230078D4?style=for-the-badge&logo=windows&logoColor=%23fff)
 
 **DESIGN**
+
 ![FIGMA](https://img.shields.io/badge/FIGMA-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23fff)
 ![CANVA](https://img.shields.io/badge/CANVA-%2300C4CC?style=for-the-badge&logo=canva&logoColor=%23fff)
 ![DRAW.IO](https://img.shields.io/badge/DRAW.IO-%23F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=%23fff)
 
 **TOOLS**
+
 ![DOCKER](https://img.shields.io/badge/DOCKER-%232496ED?style=for-the-badge&logo=docker&logoColor=%23fff)
 ![INTELLIJ IDEA](https://img.shields.io/badge/INTELLIJ_IDEA-%23000000?style=for-the-badge&logo=intellijidea&logoColor=%23fff)
 ![PHP STORM](https://img.shields.io/badge/PHP_STORM-%23000000?style=for-the-badge&logo=phpstorm&logoColor=%23fff)
 ![WEBSTORM](https://img.shields.io/badge/WEBSTORM-%23000000?style=for-the-badge&logo=webstorm&logoColor=%23fff)
 ![VS CODE](https://img.shields.io/badge/VS_CODE-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=%23fff)
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-%23FF6C37?style=for-the-badge&logo=postman&logoColor=%23fff)
-
-
-
-
-
-
-
-
-
-
-
-
-
-**PHP, AWS, React JS, Vue JS, Node Js, Ruby on Rails, TypeScript, Docker, PostgreSQL, MySQL, WordPress and Laravel**.
 
 ___
 
@@ -105,8 +99,10 @@ Today, I still continue to learn, train and share. I'm more interested in **FINT
 **[Here is my website](https://fredthedev.com)** where I talk shortly about me and I sharing my learning, experiences and knowdlege through my blog. I love write even if it's not on my blog. I share more on my others social networks...
 
 ## My Professional Social Networks
-![LINKEDIN](https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23fff&link=https%3A%2F%2Flinkedin.com%2Fin%2Ffredthedev)
-![FACEBOOK](https://img.shields.io/badge/FACEBOOK-%231877F2?style=for-the-badge&logo=facebook&logoColor=%23fff&link=https%3A%2F%2Ffacebook.com%2Ffreddy.agbona.3)
+
+<a href="https://facebook.com/freddy.agbona.3" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/FACEBOOK-%231877F2?style=for-the-badge&logo=facebook&logoColor=%23fff"></a>
+<a href="https://www.linkedin.com/in/fredthedev/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23fff">
+</a>
 
 
 Feel free to contact me 💌 !
