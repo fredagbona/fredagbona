@@ -2,7 +2,7 @@
 
 ## Short
 
-I'm **Freddy AGBONA, fullstack web developer and I love help others and sharing my knowledge ❤️**.
+I'm **Freddy AGBONA, Software Developer and I love help others and sharing my knowledge ❤️**.
 
 Passionate about ICTs with strong problem-solving skills and recognized experience in web application design, I enjoy working in a team and above all contributing to the development of high-impact projects.
 
