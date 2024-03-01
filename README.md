@@ -17,22 +17,19 @@ I like continuous learning and I adapt quickly.
 ![HTML5](https://img.shields.io/badge/HTML5-%23fff?style=for-the-badge&logo=html5&logoColor=%23fff&color=%23E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3)
 ![JS](https://img.shields.io/badge/JS-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![RUBY](https://img.shields.io/badge/RUBY-%23CC342D?style=for-the-badge&logo=ruby&logoColor=%23fff)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=%23fff)
 ![JAVA](https://img.shields.io/badge/JAVA-blue?style=for-the-badge&logoColor=%23fff)
 ![PYTHON](https://img.shields.io/badge/PYTHON-%233776AB?style=for-the-badge&logo=python&logoColor=%23fff)
 ![SHELL SCRIPT](https://img.shields.io/badge/SHELL_SCRIPT-%23000?style=for-the-badge&logo=gnubash&logoColor=%23fff)
-![C](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=%23fff)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=%23fff)
 ![SWAGGER](https://img.shields.io/badge/SWAGGER-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=%23fff)
 
 **Frameworks**
 
-![RUBY ON RAILS](https://img.shields.io/badge/RAILS-%23CC0000?style=for-the-badge&logo=rubyonrails&logoColor=%23fff)
+
 ![SPRING](https://img.shields.io/badge/SPRING-%236DB33F?style=for-the-badge&logo=spring&logoColor=%23fff)
 ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=%23fff)
 ![VUE.JS](https://img.shields.io/badge/VUE_JS-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=%23fff)
-![REACT](https://img.shields.io/badge/REACT-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23fff)
+
 
 **CMS**
 
