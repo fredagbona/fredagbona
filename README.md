@@ -2,13 +2,11 @@
 
 ## Short
 
-I'm **Freddy AGBONA, Software Developer and I love help others and sharing my knowledge ❤️**.
+I'm **Freddy AGBONA, and I love help others and sharing my knowledge ❤️**.
 
-Passionate about ICTs with strong problem-solving skills and recognized experience in web application design, I enjoy working in a team and above all contributing to the development of high-impact projects.
+I'm a Software Engineer with a strong technical background in building impactful SaaS solutions, web applications, and mobile platforms. My expertise spans programming languages like Java, JavaScript, and PHP, alongside frameworks such as Spring Boot, Vue.js, and Node.js. I thrive on creating reliable, scalable, and user-centered applications that solve real-world challenges.
 
-I have this ability to get out of the usual **"programmer" or "developer"** environment in order to work on roles ranging from **tech project management (organization of tech events, leading tech projects) to digital marketing (sales tunnel, design, seo )**
-
-I like continuous learning and I adapt quickly.
+Throughout my career, I’ve paired my technical journey with a passion for mentoring and training. As a mentor and trainer, I’ve guided aspiring developers, particularly at institutions like École 229, through immersive learning experiences. My approach combines practical projects, collaborative problem-solving, and innovative teaching methods to foster both technical expertise and essential team dynamic
 
 ### My Tech Stacks
 
