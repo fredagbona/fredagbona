@@ -1,6 +1,4 @@
-# Who Am I ?
-
-## Short
+# Hi 👋
 
 I'm **Freddy AGBONA, and I love help others and sharing my knowledge ❤️**.
 
